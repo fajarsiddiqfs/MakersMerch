@@ -1,2 +1,2 @@
-# fsmm2
-bearsky fajar siddiq
+# Makers Merch
+Made by Makers for Makers
